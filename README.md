@@ -23,3 +23,9 @@ Reconnecting upon disconnect
 Setting for the VIP gamepass to compensate for the increased WalkSpeed
 Settings importing, useful for updates
 Discord Server: https://discord.gg/DYUqwJchuV
+
+# Fix
+
+If your dolphin-builder paths haven't been working (and or aren't updated) then use the executable
+version, this version has more features like a faster item-pickup time, VIP gamepass speed, 
+and even a quicker disconnect / reconnect speed.
